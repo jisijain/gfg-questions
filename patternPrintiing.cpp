@@ -31,7 +31,7 @@ int main()
         cin>>N;
         Solution ob;
         ob.printPattern(N);
-        cout << "\n";
+        cout << "\n" ;
     }
     return 0;
 }
